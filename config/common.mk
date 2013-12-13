@@ -93,6 +93,7 @@ PRODUCT_PACKAGES += \
     SlimCenter \
     SlimFileManager \
     LatinIME \
+    Launcher3 \
     SlimIRC \
     BluetoothExt
 
